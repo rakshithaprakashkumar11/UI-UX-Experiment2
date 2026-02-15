@@ -22,15 +22,12 @@ Mobile layout follows a smooth vertical scroll structure, while the web layout f
 
 🔹 5. Visual Hierarchy
 Large bold fonts for offers and discounts
-
 Medium-sized fonts for product titles
-
 Smaller, lighter fonts for descriptions and secondary details
-
 This helps users prioritize information efficiently.
 
 ## b. UI Elements and Design Patterns Used in ShopSmart
- Mobile Layout Design
+ **Mobile Layout Design**
 Header Section
 Centered ShopSmart logo
 
@@ -48,7 +45,7 @@ Product card listings
 Bottom Navigation Bar
 Home | Categories | Orders | Wishlist | Profile
 
-💻 Web Layout Design
+ Web Layout Design
 Sticky Header
 ShopSmart logo (left-aligned)
 
@@ -58,30 +55,24 @@ Login, Wishlist, and Cart (right side)
 
 Main Web Sections
 Hero banner with seasonal offers
-
 Horizontal category navigation
-
 Product grid (4 per row)
-
 Deal of the Day section
 
 Footer
 About ShopSmart | Customer Support | FAQ | Terms & Privacy | Social Media Links
 
-🎨 Design Patterns Implemented
+ **Design Patterns Implemented**
+ 
 Card-based layout for products
-
 Sticky navigation (web)
-
 Bottom navigation (mobile)
-
 Autocomplete search pattern
-
 Budget tracking UI indicator (ShopSmart feature)
-
 Fully responsive grid system
 
 ## c. Interaction Behavior & Usability Principles
+
 ✅ Mobile-First Approach
 Design starts with mobile and scales to larger screens using responsive techniques.
 
@@ -100,23 +91,18 @@ Same color scheme, icon style, and button placement across all pages.
 
 ✅ Accessibility
 High contrast color ratio
-
 Readable typography
-
 Large touch-friendly buttons
-
 Screen-reader friendly labels
 
 ✅ User Control & Freedom
 Users can:
-
 Modify cart quantity easily
-
 Save items for later
-
 Track orders in real-time
 
 ## d. Brand Logo and Styling Guidelines
+
 🟣 ShopSmart Logo Concept
 The ShopSmart logo features:
 
@@ -126,7 +112,8 @@ A dual-tone background (Purple & Yellow split design).
 
 Clean, bold typography for “ShopSmart”.
 
-🎨 Color Palette Meaning
+ **Color Palette Meaning**
+ 
 Purple → Trust, premium experience, innovation
 
 Yellow → Energy, positivity, affordability
@@ -138,7 +125,8 @@ Clean spacing for readability
 
 Slight shadow depth for modern appearance
 
-📌 Brand Identity Summary
+ **Brand Identity Summary**
+ 
 ShopSmart represents:
 
 ✔ Smart budgeting
@@ -147,7 +135,9 @@ ShopSmart represents:
 ✔ Reliable & user-friendly interface
 
 ## Output:
-[ShopSmart Ecommerce App Logo.pdf](https://github.com/user-attachments/files/25324884/ShopSmart.Ecommerce.App.Logo.pdf)
+
+<img width="1024" height="1024" alt="ShopSmart Ecommerce App Logo" src="https://github.com/user-attachments/assets/a00515ea-3499-4bc6-a642-8d12a56e9dee" />
+
 
 ## Result:
 The ShopSmart UI/UX design integrates Gestalt principles, responsive layouts, consistent branding, and strong usability standards to create a seamless shopping experience across mobile and web platforms. The interface focuses on clarity, accessibility, and interactive feedback, ensuring user satisfaction and efficiency.
