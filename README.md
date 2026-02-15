@@ -128,10 +128,13 @@ Slight shadow depth for modern appearance
  
 ShopSmart represents:
 
-✔ Smart budgeting
-✔ Seamless shopping
-✔ Modern digital experience
-✔ Reliable & user-friendly interface
+Smart budgeting
+
+Seamless shopping
+
+Modern digital experience
+
+Reliable & user-friendly interface
 
 ## Output:
 
