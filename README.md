@@ -103,7 +103,6 @@ Track orders in real-time
 
 ## d. Brand Logo and Styling Guidelines
 
-🟣 ShopSmart Logo Concept
 The ShopSmart logo features:
 
 A modern shopping cart icon integrated with circuit-like lines symbolizing smart technology and intelligent shopping.
