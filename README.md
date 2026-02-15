@@ -5,6 +5,7 @@ Designing a Responsive Mobile and Web Experience for ShopSmart:
 ShopSmart is a modern e-commerce platform focused on smart budgeting and seamless online shopping. The goal of this design case study is to create intuitive mobile and web layouts using strong UI/UX principles, effective interaction behavior, and a consistent brand identity featuring the ShopSmart logo.
 
 ## Algorithm:
+
 ## a. Applying Gestalt Principles in ShopSmart Layout Design
 To create a visually organized and user-friendly interface, the following Gestalt principles are applied:
 
