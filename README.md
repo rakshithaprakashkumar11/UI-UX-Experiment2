@@ -142,4 +142,4 @@ Reliable & user-friendly interface
 
 
 ## Result:
-The ShopSmart UI/UX design integrates Gestalt principles, responsive layouts, consistent branding, and strong usability standards to create a seamless shopping experience across mobile and web platforms. The interface focuses on clarity, accessibility, and interactive feedback, ensuring user satisfaction and efficiency.
+The ShopSmart UI/UX design integrates Gestalt principles, responsive layouts, consistent branding, and strong usability standards to create a seamless shopping experience across mobile and web platforms.The interface focuses on clarity, accessibility, and interactive feedback, ensuring user satisfaction and efficiency.
